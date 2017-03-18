@@ -1,3 +1,6 @@
 [submodule "owc-backend"]
 	path = owc-backend
 	url = git@github.com:revenge-of-the-nerds/owc-backend.git
+[submodule "owc-frontend"]
+	path = owc-frontend
+	url = git@github.com:revenge-of-the-nerds/owc-frontend.git
